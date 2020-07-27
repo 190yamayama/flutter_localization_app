@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "hello": "Hello",
+  "@hello": {
+    "description": "Greeting",
+    "type": "text",
+    "placeholders": {}
+  }
+}

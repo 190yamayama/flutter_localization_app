@@ -1,0 +1,9 @@
+{
+  "@@locale": "messages",
+  "hello": "こんにちは",
+  "@hello": {
+    "description": "挨拶",
+    "type": "text",
+    "placeholders": {}
+  }
+}
